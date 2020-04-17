@@ -52,7 +52,7 @@ public class Xls_Reader {
 	/**
 	 * Code has been updated as per new POI version - 4.x.x
 	 * 
-	 * @author NaveenKhunteta
+	 * @author MD Rahman
 	 * @param sheetName
 	 * @param colNum
 	 * @param rowNum
